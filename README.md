@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **mohitbaghel1234321@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
+- 🔭 **I’m currently working on:*Major Project * 
+- 🌱 **I’m currently learning:*React* 
+- 👯 **I’m looking to collaborate on:*No* 
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** 
 - 📫 **How to reach me:** mohitbaghel1234321@gmail.com
