@@ -32,7 +32,8 @@ Email Me 👉 ✉️ **mohitbaghel1234321@gmail.com** For Collaboration/Project 
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Dream%20big%2C%20start%20small%2C%20but%20never%20stop.)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohit161122&limit=5&theme=dark&combine_all_yearly_contributions=true)
